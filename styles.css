@@ -165,3 +165,6 @@ h2 {
 .opcao-acessibilidade button {
     margin-bottom: 5px;
 }
+.apresenta-lista{
+    display: none;
+}
