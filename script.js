@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
         botaoDeAcessibilidade.classList.toggle('rotacao-botao');
         opcoesAcessibilidade.classList.toggle('apresenta-lista')
     })
+    const alternaContrate = docume
 
     let tamanhoAtualFonte = 1;
 
